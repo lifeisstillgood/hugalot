@@ -1,5 +1,6 @@
-Have yoU Got A Licence fOr That?
-================================
+.. raw: html
+
+   <h1>Have yoU Got A Licence fOr That?</h1>
 
 Yes, seriously.  Licenses are what councils, certainly in Britain, 
 do best.  And yet the differences between the licence-experience
